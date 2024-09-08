@@ -12,8 +12,8 @@
     - https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100
 
 # Reference
-    -https://github.com/kairess/Mask_RCNN
-    -https://github.com/matterport/Mask_RCNN
+    - https://github.com/kairess/Mask_RCNN
+    - https://github.com/matterport/Mask_RCNN
 
 ---
 
