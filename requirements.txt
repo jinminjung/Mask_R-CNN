@@ -1,10 +1,11 @@
-numpy
+numpy==1.19.5
+typing-extensions==3.7.4
 scipy
 Pillow
 cython
 matplotlib
 scikit-image
-tensorflow>=2.0.0
+# tensorflow>=2.0.0
 opencv-python
 h5py
 imgaug
