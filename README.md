@@ -1,18 +1,29 @@
 # Mask R-CNN
 
-  Requirement
+## Requirement
 
 python=3.8
+
 tensorflow==2.5.0
+
 gdown
+
 Pillow
+
 scipy
+
 scikit-image
-numpy==1.21.0
+
+numpy==1.19.5
+
 matplotlib
+
 IPython
+
 opencv-python
 
 
-  Result
+## Result
+
+
 
